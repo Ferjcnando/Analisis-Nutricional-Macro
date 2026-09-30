@@ -54,7 +54,9 @@ Principales variables:
 * `carbohidratos_100g`
 * `grasas_100g`
 
-[Ver conjunto de datos](data/alimentos_info.xlsx)
+## 📂 Enlaces y Archivos del Proyecto
+* [Ver conjunto de datos (Excel)](data/Alimentos_Base.xlsx)
+* [Descargar reporte de Power BI (Alimentos_MX.pbix)](powerbi/Alimentos_MX.pb
 
 ## 🛠️ Tecnologías
 
